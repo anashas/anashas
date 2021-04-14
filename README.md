@@ -1,7 +1,10 @@
 ### Hi there 👋, I am Anas Hasni!
 ![](https://komarev.com/ghpvc/?username=your-github-anashas)
+
 I am a Deep Learning Enthusiast, looking for opportunities.
+
 I have a great interest in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems, I also have a Research experience as Graduate Research Assistant.
+
 I mainly work with Python, Keras, Tensorflown, and Pytorch.
 
 - 🔭 I’m currently working on several Deep Learning Projects
