@@ -3,7 +3,8 @@
 
 I am a Deep Learning Enthusiast, looking for opportunities.
 
-I have a great interest in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems, I also have a Research experience as [Graduate Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67).
+I have a great interest in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems from National School of Applied Sciences, Morocco.
+I also have a Research experience as [Graduate Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67) from INSEA, Morocco.
 
 I mainly work with Python, Keras, Tensorflown, and Pytorch.
 
