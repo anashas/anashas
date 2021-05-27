@@ -6,7 +6,7 @@ I am an AWS Community Builder and a Deep Learning Enthusiast.
 I am interested in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems from National School of Applied Sciences, Morocco.
 I also have a Research experience as [Graduate Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67) from INSEA, Morocco.
 
-I mainly work with Python, Keras, Tensorflown, and Pytorch.
+I mainly work with Python, Keras, Tensorflow, and Pytorch.
 
 - 🔭 I’m currently working on several Deep Learning Projects
 - 🌱 I’m currently learning MLOps.
