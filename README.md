@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Anas Hasni!
 ![](https://komarev.com/ghpvc/?username=your-github-anashas)
 
-I am an AWS Community Builder and a Deep Learning Enthusiast.
+I am an AWS Community Builder and a Deep Learning practitioner.
 
 I am interested in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems from National School of Applied Sciences, Morocco.
 I also have a Research experience as [Graduate Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67) from INSEA, Morocco.
