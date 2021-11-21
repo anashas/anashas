@@ -8,7 +8,7 @@ I also have a Research experience as [Graduate Research Assistant](https://link.
 
 I mainly work with Python, Keras, Tensorflow, and Pytorch.
 
-- 🔭 I’m currently working on several Deep Learning Projects [Zindi](https://zindi.africa/users/Anas_Hasni)||[Kaggle](https://www.kaggle.com/myspace)
+- 🔭 I’m currently working on several Deep Learning Projects [Zindi](https://zindi.africa/users/Anas_Hasni)||[Kaggle](https://www.kaggle.com/myspace)||[Hugging Face](https://huggingface.co/anas)
 - 🌱 I’m currently learning MLOps.
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/anas-hasni-00842a193/), [Twitter](https://twitter.com/hasnii_anas)
