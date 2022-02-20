@@ -4,7 +4,7 @@
 I am an AWS Community Builder and a [Deep Learning practitioner](https://zindi.africa/users/Anas_Hasni/competitions/certificate).
 
 I am interested in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems from National School of Applied Sciences, Morocco.
-I also have a Research experience as [Graduate Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67) from INSEA, Morocco.
+I also have experience working as [Machine Learning Engineer/ Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67) at INSEA, Morocco.
 
 I mainly work with Python, Keras, Tensorflow, and Pytorch.
 
