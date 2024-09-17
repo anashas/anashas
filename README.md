@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Anas Hasni!
 ![](https://komarev.com/ghpvc/?username=your-github-anashas)
 
-I am an AWS Community Builder and a [Deep Learning practitioner](https://zindi.africa/users/Anas_Hasni/competitions/certificate).
+I am a Data Engineer and a [Deep Learning practitioner](https://zindi.africa/users/Anas_Hasni/competitions/certificate).
 
 I am interested in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems from National School of Applied Sciences, Morocco.
 I also have experience working as [Machine Learning Engineer/ Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67) at INSEA, Morocco.
@@ -9,7 +9,7 @@ I also have experience working as [Machine Learning Engineer/ Research Assistant
 I mainly work with Python, Keras, Tensorflow, and Pytorch.
 
 - 🔭 I’m currently working on several Deep Learning Projects [Zindi](https://zindi.africa/users/Anas_Hasni) || [Kaggle](https://www.kaggle.com/myspace) || [Hugging Face](https://huggingface.co/anas)
-- 🌱 I’m currently learning MLOps.
+- 🌱 I’m currently learning about LLMs in Production.
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/anas-hasni-00842a193/), [Twitter](https://twitter.com/hasnii_anas)
 - 😄 Pronouns: He/Him
