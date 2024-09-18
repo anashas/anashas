@@ -1,18 +1,20 @@
 ### Hi there 👋, I am Anas Hasni!
 ![](https://komarev.com/ghpvc/?username=your-github-anashas)
 
-I am a Data Engineer and a [Deep Learning practitioner](https://zindi.africa/users/Anas_Hasni/competitions/certificate).
+👋 Hi! I'm Anas Hasni, a Data & AI Engineer passionate about transforming data into impactful insights and building intelligent systems that address real-world challenges. I specialize in data engineering, machine learning, and AI-driven solutions.
 
-I am interested in Computer Vision and NLP, I hold a Master's Degree in Intelligent and Communicating Systems from National School of Applied Sciences, Morocco.
-I also have experience working as [Machine Learning Engineer/ Research Assistant](https://link.springer.com/chapter/10.1007%2F978-3-030-29516-5_67) at INSEA, Morocco.
+⚡ My areas of expertise include:
 
-I mainly work with Python, Keras, Tensorflow, and Pytorch.
+Data Engineering: Developing automated workflows and pipelines using PySpark, Databricks, Apache Airflow, and Power BI.
+Deep Learning: Solving complex problems in computer vision and NLP with TensorFlow, PyTorch, and Keras.
+Machine Learning: Applying advanced techniques with tools like AWS SageMaker and Hugging Face to create and deploy models at scale.
+💡 I'm currently exploring applications of LLMs in production, with a keen interest in AI for healthcare and smart mobility.
 
-- 🔭 I’m currently working on several Deep Learning Projects [Zindi](https://zindi.africa/users/Anas_Hasni) || [Kaggle](https://www.kaggle.com/myspace) || [Hugging Face](https://huggingface.co/anas)
-- 🌱 I’m currently learning about LLMs in Production.
-- 👯 I’m looking to collaborate on Deep Learning Projects
-- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/anas-hasni-00842a193/), [Twitter](https://twitter.com/hasnii_anas)
-- 😄 Pronouns: He/Him
+🌱 I’m committed to continuous learning and enjoy contributing to open-source projects like Hugging Face, Scikit-learn, Coqui.ai, and Ivy. In my free time, I write articles on Medium, sharing insights on AI and data science trends.
+
+📫 If you’d like to follow my journey, check out my GitHub for the latest projects and ideas I’m working on.
+
+
 <!--
 **anashas/anashas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
