@@ -10,7 +10,7 @@ Deep Learning: Solving complex problems in computer vision and NLP with TensorFl
 Machine Learning: Applying advanced techniques with tools like AWS SageMaker and Hugging Face to create and deploy models at scale.
 💡 I'm currently exploring applications of LLMs in production, with a keen interest in AI for healthcare and smart mobility.
 
-🌱 I’m committed to continuous learning and enjoy contributing to open-source projects like Hugging Face, Scikit-learn, Coqui.ai, and Ivy. In my free time, I write articles on Medium, sharing insights on AI and data science trends.
+🌱 I’m committed to continuous learning and enjoy contributing to open-source projects. I write articles on Medium in my free time, sharing insights on AI and data science trends.
 
 📫 If you’d like to follow my journey, check out my GitHub for the latest projects and ideas I’m working on.
 
