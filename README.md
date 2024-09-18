@@ -5,11 +5,11 @@
 
 ⚡ My areas of expertise include:
 
--**Data Engineering**: Developing automated workflows and pipelines using PySpark, Databricks, Apache Airflow, and Power BI.
+- **Data Engineering**: Developing automated workflows and pipelines using PySpark, Databricks, Apache Airflow, and Power BI.
 
--**Deep Learning**: Solving complex problems in computer vision and NLP with TensorFlow, PyTorch, and Keras.
+- **Deep Learning**: Solving complex problems in computer vision and NLP with TensorFlow, PyTorch, and Keras.
 
--**Machine Learning**: Applying advanced techniques with tools like Google Vetex AI, AWS SageMaker, and others to create and deploy models at scale.
+- **Machine Learning**: Applying advanced techniques with tools like Google Vetex AI, AWS SageMaker, and others to create and deploy models at scale.
 
 💡 I'm currently exploring applications of LLMs in production, with a keen interest in AI for healthcare and smart mobility.
 
