@@ -1,21 +1,9 @@
 ### Hi there 👋, I am Anas Hasni!
 ![](https://komarev.com/ghpvc/?username=your-github-anashas)
 
-👋 Hi! I'm Anas Hasni, a Data & AI Engineer passionate about transforming data into impactful insights and building intelligent systems that address real-world challenges. I specialize in data engineering, machine learning, and AI-driven solutions.
-
-⚡ My areas of expertise include:
-
-- **Data Engineering**: Developing automated workflows and pipelines using PySpark, Databricks, Apache Airflow, and Power BI.
-
-- **Deep Learning**: Solving complex problems in computer vision and NLP with TensorFlow, PyTorch, and Keras.
-
-- **Machine Learning**: Applying advanced techniques with tools like Google Vetex AI, AWS SageMaker, and others to create and deploy models at scale.
-
-💡 I'm currently exploring applications of LLMs in production, with a keen interest in AI for healthcare and smart mobility.
-
-🌱 I’m committed to continuous learning and enjoy contributing to open-source projects. I write articles on Medium in my free time, sharing insights on AI and data science trends.
-
-📫 If you’d like to follow my journey, check out my GitHub for the latest projects and ideas I’m working on.
+ Hi, I'm Anas Hasni — Data Engineer focused on building reliable, scalable data infrastructure that teams can depend on.
+⚙️ Stack: dbt · SQL · PySpark · Databricks · Azure · AWS · GCP · Power BI · Python · Azure DevOps
+🔧 I work across the full data stack — from ingestion and transformation to modeling and delivery. I care about pipelines that are clean, tested, and maintainable, not just ones that run.
 
 
 <!--
