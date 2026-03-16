@@ -2,7 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-anashas)
 
  Hi, I'm Anas Hasni — Data Engineer focused on building reliable, scalable data infrastructure that teams can depend on.
+ 
 ⚙️ Stack: dbt · SQL · PySpark · Databricks · Azure · AWS · GCP · Power BI · Python · Azure DevOps
+
 🔧 I work across the full data stack — from ingestion and transformation to modeling and delivery. I care about pipelines that are clean, tested, and maintainable, not just ones that run.
 
 
